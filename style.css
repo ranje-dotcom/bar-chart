@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+    margin-top: 8rem;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
